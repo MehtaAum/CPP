@@ -1,0 +1,3 @@
+[submodule "day 01"]
+	path = day 01
+	url = https://github.com/MehtaAum/CPP.git
