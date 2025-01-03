@@ -1,3 +1,6 @@
 [submodule "day 01"]
 	path = day 01
 	url = https://github.com/MehtaAum/CPP.git
+[submodule "day01"]
+	path = day01
+	url = https://github.com/MehtaAum/CPP.git
